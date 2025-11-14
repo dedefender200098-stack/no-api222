@@ -1,0 +1,13 @@
+aiosqlite==0.21.0
+ccxt==4.5.7
+colorama==0.4.6
+cryptography==46.0.2
+curl_cffi==0.13.0
+eth_account==0.13.7
+eth_typing==5.2.1
+loguru==0.7.3
+pydantic==2.11.10
+questionary==2.1.1
+rich==14.1.0
+SQLAlchemy==2.0.43
+web3==7.13.0
